@@ -1,3 +1,3 @@
 Run:
-./organize.sh submissions targets tests answers -noexecute
-./organize.sh submissions targets tests answers 
+<pre>./organize.sh submissions targets tests answers -noexecute</pre>
+<pre>./organize.sh submissions targets tests answers</pre>
